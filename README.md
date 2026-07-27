@@ -69,3 +69,5 @@ Check out options in [types.ts](./src/types.ts).
 
 MIT.
 
+
+# PR Update: 2026-07-27 09:11:40
